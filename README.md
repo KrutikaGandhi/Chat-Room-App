@@ -1,9 +1,2 @@
-# ChatApp-Nodejs
-live demo available just enter your user name and join room you want
-•	You can join a chat room given that your name is unique
-•	Real time message and location sending.
-•	Mustache.js library is used for rendering message.
-•	Moment.js library is used to format the timing of the message.
-•	User joined and user left notification.
-•	List of active users is rendered in the left column of the page along with the Room name.
-•	Auto scrolling functionality added  
+# Chat-Room App
+Created real-time Node.js based Chat-Room application that allows the user to join any chat room given that the user name is unique for that chat room. Once in chat room users can send and receive messages and location data using Geolocation API. Socket.io was used to enables real-time, bidirectional and event-based communication.
